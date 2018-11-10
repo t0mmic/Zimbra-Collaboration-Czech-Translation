@@ -1,7 +1,7 @@
-# Zimbra-Collaboration-Czech-Translation
+# Zimbra-Czech-Translation
 Czech language for ZCS
 
-Čeština do Zimbra Collaboration
+Češký překlad pro Zimbru Collaboration
 
 návod pro instalaci https://wiki.zimbra.com/wiki/Translations
 
